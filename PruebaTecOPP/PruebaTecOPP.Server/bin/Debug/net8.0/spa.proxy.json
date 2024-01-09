@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\jotue\\OneDrive - Universidad de El Salvador\\Desktop\\PruebaTecnicaOOP\\PruebaTecOPP\\PruebaTecOPP.Server\\..\\pruebatecopp.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
